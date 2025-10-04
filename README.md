@@ -2,7 +2,7 @@
 <h3 align="center">💻 Android Developer | 🎯 Problem Solver | 📱 Mobile Enthusiast</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=00FF80&center=true&vCenter=true&width=500&lines=Sometimes+waiting...;Sometimes+coding...;Always+learning+💫" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&duration=4000&color=0095D5&center=true&vCenter=true&width=500&lines=Sometimes+waiting...;Sometimes+coding...;Always+learning+💫" />
 </p>
 
 <p align="center">
@@ -42,11 +42,3 @@ object Developer {
         return "Turning ideas into Android apps 📱"
     }
 }
-
-<p align="left"> <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" /> <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
-
-<p align="center"> <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WaitAndSee-AFK&show_icons=true&theme=radical&hide_border=true&count_private=true" /> <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaitAndSee-AFK&layout=compact&theme=radical&hide_border=true" /> </p>
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=WaitAndSee-AFK&color=blueviolet&style=flat-square" /></div>
