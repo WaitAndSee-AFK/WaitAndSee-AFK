@@ -33,6 +33,7 @@
 
 ### 🔥 Мой LeetCode
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/your-profile](https://leetcode.com/u/L_E_L_I_K/))
+
 *Решаю алгоритмические задачи для улучшения навыков программирования*
 
 ### 📊 Статистика GitHub
