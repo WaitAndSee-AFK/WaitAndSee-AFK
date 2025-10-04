@@ -48,3 +48,8 @@ object Developer {
         return "Turning ideas into Android apps 📱"
     }
 }
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WaitAndSee-AFK&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaitAndSee-AFK&layout=compact&theme=radical&hide_border=true" />
+</p>
