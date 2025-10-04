@@ -1,27 +1,68 @@
-<h1 align="center" style="color:#89CFF0;">👋 Hey, I'm Lelik!</h1>
-<h3 align="center" style="color:#6FA8DC;">💻 Android Developer | 🚀 Building Mobile Experiences | 🌟 Lifelong Learner</h3>
+# 👋 Привет, я Леонид Воробьев, но можно просто Лелик
+### Начинающий Android-разработчик
 
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=3500&color=89CFF0&center=true&vCenter=true&width=500&lines=Crafting+Android+apps+📱;Solving+problems+with+code+💡;Always+exploring+new+tech+🌐" />
-</p>
-
-<p align="center">
-  <a href="https://t.me/WaitAndSee_5">
-    <img src="https://img.shields.io/badge/Telegram-89CFF0?style=flat-square&logo=telegram&logoColor=white" />
-  </a>
-  <a href="mailto:b_banni@inbox.ru">
-    <img src="https://img.shields.io/badge/Gmail-6FA8DC?style=flat-square&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/L_E_L_I_K/">
-    <img src="https://img.shields.io/badge/LeetCode-89CFF0?style=flat-square&logo=leetcode&logoColor=black" />
-  </a>
-</p>
+🚀 Стремлюсь создавать качественные мобильные приложения с удобным интерфейсом и современными технологиями.
 
 ---
 
-## 🛠 Tech Stack
+## 🛠️ Технологии и навыки
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Kotlin-89CFF0?style=flat-square&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android-6FA8DC?style=flat-square&logo=android&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-89CFF0?style=flat-square&logo=java&logoColor=white" />
+### 📱 Основные технологии
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+
+### 🏗️ Архитектура и подходы
+![MVVM](https://img.shields.io/badge/MVVM-Architecture-FF6B6B?style=for-the-badge)
+![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6A1B9A?style=for-the-badge)
+
+### 📚 Библиотеки и фреймворки
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
+![Room](https://img.shields.io/badge/Room-Database-4CAF50?style=for-the-badge)
+![Retrofit](https://img.shields.io/badge/Retrofit-API-8A2BE2?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/Coroutines-Async-4CAF50?style=for-the-badge)
+
+### 🛠️ Инструменты
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+---
+
+## 📈 Активность
+
+### 🔥 Мой LeetCode
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/your-profile](https://leetcode.com/u/L_E_L_I_K/))
+*Решаю алгоритмические задачи для улучшения навыков программирования*
+
+### 📊 Статистика GitHub
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+
+---
+
+## 📫 Связь со мной
+
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WaitAndSee_5)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b_banni@inbox.ru)
+
+---
+
+## 💼 Мои проекты
+
+### 📱 [Название проекта 1](https://github.com/yourusername/project1)
+Краткое описание проекта, технологии которые использовались
+
+### 📱 [Название проекта 2](https://github.com/yourusername/project2)
+Краткое описание проекта, что интересного было реализовано
+
+---
+
+## 📚 Изучаю сейчас
+- 🔥 Jetpack Compose
+- 🏗️ Clean Architecture
+- 📱 Advanced Android patterns
+- 🎯 Kotlin Coroutines & Flow
+
+⭐ *Всегда открыт для новых вызовов и сотрудничества!*
