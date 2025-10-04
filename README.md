@@ -1,3 +1,4 @@
+сделай мне красивое оформление gitHub профиля в пастельных и синих цветах
 <h1 align="center">👋 Hey, I'm Lelik!</h1>
 <h3 align="center">💻 Android Developer | 🚀 Building Mobile Experiences | 🌟 Lifelong Learner</h3>
 
