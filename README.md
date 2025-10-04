@@ -30,7 +30,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WaitAndSee-AFK&show_icons=true&theme=radical&hide_border=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaitAndSee-AFK&layout=compact&theme=radical&hide_border=true" />
 </p>
+
 ## 🚀 About Me
+
 ```kotlin
 object Developer {
     const val NAME = "Leonid Vorobev"
@@ -40,7 +42,7 @@ object Developer {
     
     val TECH_STACK = listOf(
         "Kotlin", "Java", "Android SDK",
-        "Retrofit", "Room", "Coroutines", 
+        "Retrofit", "Room", "Coroutines",
         "MVVM", "Clean Architecture", "Git"
     )
     
@@ -52,5 +54,4 @@ object Developer {
         return "Turning ideas into Android apps 📱"
     }
 }
-
 
