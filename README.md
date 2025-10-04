@@ -6,13 +6,13 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/@WaitAndSee_5">
+  <a href="https://t.me/WaitAndSee_5">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" />
   </a>
   <a href="mailto:b_banni@inbox.ru">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
   </a>
-  <a href="https://leetcode.com/[[YOUR_LEETCODE]](https://leetcode.com/u/L_E_L_I_K/)/">
+  <a href="https://leetcode.com/u/L_E_L_I_K/">
     <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   </a>
 </p>
@@ -23,17 +23,22 @@
 
 ```kotlin
 object Developer {
-    const val NAME = "Leonid Vorobev, but you can just say Lelik"
+    const val NAME = "Leonid Vorobev"
+    const val PREFERRED_NAME = "Lelik"
     const val ROLE = "Android Developer"
     const val STATUS = "Sometimes AFK, always learning"
     
     val TECH_STACK = listOf(
         "Kotlin", "Java", "Android SDK",
-        "Retrofit", "Room", "Coroutines",
+        "Retrofit", "Room", "Coroutines", 
         "MVVM", "Clean Architecture", "Git"
     )
     
     fun isAvailable(): Boolean {
         return !isAFK()
+    }
+    
+    fun getMotivation(): String {
+        return "Turning ideas into Android apps 📱"
     }
 }
