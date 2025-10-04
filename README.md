@@ -18,8 +18,6 @@
 </p>
 
 ---
-
-## 🚀 About Me
 <p align="left">
   <img src="https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white" />
   <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" />
@@ -27,6 +25,12 @@
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
 </p>
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WaitAndSee-AFK&show_icons=true&theme=radical&hide_border=true&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaitAndSee-AFK&layout=compact&theme=radical&hide_border=true" />
+</p>
+## 🚀 About Me
 ```kotlin
 object Developer {
     const val NAME = "Leonid Vorobev"
@@ -49,7 +53,4 @@ object Developer {
     }
 }
 
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=WaitAndSee-AFK&show_icons=true&theme=radical&hide_border=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaitAndSee-AFK&layout=compact&theme=radical&hide_border=true" />
-</p>
+
