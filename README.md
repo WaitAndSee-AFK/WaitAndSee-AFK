@@ -61,9 +61,6 @@
   <img src="https://streak-stats.demolab.com?user=Le1ik1&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45%2C7F52FF%2C3DDC84&fire=FF6B6B&sideNums=FF6B6B" width="70%" />
 </div>
 
-</div>
----
-
 ## 🏆 **LeetCode Прогресс**
 
 <div align="center">
