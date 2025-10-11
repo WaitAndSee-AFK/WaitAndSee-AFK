@@ -32,7 +32,7 @@
 ### **📱 Основные Технологии**
   
 <!-- Иконки технологий из Skill Icons -->
-<img src="https://skillicons.dev/icons?i=kotlin,android studio,idea,java,gradle&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=kotlin,android&studio,idea,java,gradle&theme=dark&perline=5" />
 
 ### **🏗️ Архитектура & UI**
 <img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,github,gitlab&theme=dark&perline=5" />
