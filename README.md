@@ -45,25 +45,23 @@
 
 <div align="center">
 
-<!-- Анимированные статистики -->
+<!-- Чистый и минималистичный дизайн -->
 <table>
   <tr>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api?username=Le1ik1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Моя+Статистика+GitHub" />
+      <img src="https://github-readme-stats.vercel.app/api?username=WaitAndSee-AFK&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=💻+Кодинг+Статистика&hide=prs,issues" />
     </td>
     <td align="center">
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le1ik1&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=Топ+Языки" />
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" align="center">
-      <img src="https://streak-stats.demolab.com?user=Le1ik1&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45%2C7F52FF%2C3DDC84&fire=FF6B6B" />
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=WaitAndSee-AFK&layout=compact&theme=radical&hide_border=true&langs_count=6&custom_title=🚀+Популярные+Языки&hide=html,css,scss" />
     </td>
   </tr>
 </table>
 
+<div align="center" style="margin-top: 20px;">
+  <img src="https://streak-stats.demolab.com?user=Le1ik1&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45%2C7F52FF%2C3DDC84&fire=FF6B6B&sideNums=FF6B6B" width="70%" />
 </div>
 
+</div>
 ---
 
 ## 🏆 **LeetCode Прогресс**
