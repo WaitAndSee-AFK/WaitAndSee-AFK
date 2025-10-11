@@ -1,74 +1,131 @@
 <div align="center">
 
-# 👋 Привет, я Леонид Воробьев 
-### **Android Developer** | Kotlin • Jetpack Compose • Clean Architecture
+<!-- Анимированное приветствие -->
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7F52FF&center=true&vCenter=true&width=500&lines=👋+Привет,+я+Леонид+Воробьев;💻+Android+Developer;🚀+Kotlin+%7C+Jetpack+Compose;🎯+Clean+Architecture" alt="Приветствие" />
 
-🚀 Создаю современные мобильные приложения с фокусом на пользовательский опыт и чистый код
+<!-- Статус -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Modern+Mobile+Apps&fontSize=40&fontAlignY=40" />
+</p>
 
-[![Telegram](https://img.shields.io/badge/Telegram-@WaitAndSee_5-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WaitAndSee_5)
-[![Email](https://img.shields.io/badge/Email-b_banni@inbox.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b_banni@inbox.ru)
-[![LeetCode](https://img.shields.io/badge/LeetCode-L_E_L_I_K-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/L_E_L_I_K/)
+<!-- Социальные сети с иконками -->
+<p align="center">
+  <a href="https://t.me/WaitAndSee_5">
+    <img src="https://img.shields.io/badge/Telegram-@WaitAndSee_5-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" />
+  </a>
+  <a href="mailto:b_banni@inbox.ru">
+    <img src="https://img.shields.io/badge/Email-b_banni@inbox.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+  </a>
+  <a href="https://leetcode.com/u/L_E_L_I_K/">
+    <img src="https://img.shields.io/badge/LeetCode-L_E_L_I_K-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
+  </a>
+</p>
 
 </div>
 
 ---
 
-## 🛠️ **Мой Tech Stack**
+## 🎯 **Технологический Стек**
 
-### **📱 Основные технологии**
 <div align="center">
+
+### **📱 Основные Технологии**
   
-![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<!-- Иконки технологий из Skill Icons -->
+<img src="https://skillicons.dev/icons?i=kotlin,android,idea,java,gradle&theme=dark&perline=5" />
 
-</div>
+### **🏗️ Архитектура & UI**
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,github,gitlab&theme=dark&perline=5" />
 
-### **🏗️ Архитектура & Библиотеки**
-<div align="center">
+### **📚 Базы Данных & Сеть**
+<img src="https://skillicons.dev/icons?i=sqlite,mysql,postman,realm,mongodb&theme=dark&perline=5" />
 
-![MVVM](https://img.shields.io/badge/Architecture-MVVM-FF6B6B?style=for-the-badge)
-![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6A1B9A?style=for-the-badge)
-![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
-![Coroutines](https://img.shields.io/badge/Coroutines-Flow-4CAF50?style=for-the-badge)
-
-</div>
-
-### **📚 Дополнительные технологии**
-<div align="center">
-
-![Retrofit](https://img.shields.io/badge/Retrofit-REST-8A2BE2?style=for-the-badge)
-![Room](https://img.shields.io/badge/Room_Database-4CAF50?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+### **🛠️ Инструменты & Другое**
+<img src="https://skillicons.dev/icons?i=figma,stackoverflow,linux,wordpress,vscode&theme=dark&perline=5" />
 
 </div>
 
 ---
 
-## 📊 **GitHub Statistics**
+## 📊 **GitHub Статистика**
 
 <div align="center">
 
-![Leonid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Le1ik1&show_icons=true&theme=radical&hide_border=true&count_private=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Le1ik1&layout=compact&theme=radical&hide_border=true&langs_count=6)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Le1ik1&theme=radical&hide_border=true)
+<!-- Анимированные статистики -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api?username=Le1ik1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true&custom_title=Моя+Статистика+GitHub" />
+    </td>
+    <td align="center">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Le1ik1&layout=compact&theme=radical&hide_border=true&langs_count=8&custom_title=Топ+Языки" />
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://streak-stats.demolab.com?user=Le1ik1&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D&background=45%2C7F52FF%2C3DDC84&fire=FF6B6B" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
 ---
 
-## 🎯 **Что изучаю сейчас**
+## 🏆 **LeetCode Прогресс**
 
-- 🔥 **Advanced Jetpack Compose** - кастомные анимации и сложные UI
-- 🏗️ **MVI & MVIKotlin** - современные архитектурные подходы
-- 📱 **KMP (Kotlin Multiplatform)** - кроссплатформенная разработка
-- 🎨 **Material Design 3** - современные UI паттерны
-хнологии: MVVM, Retrofit, Room, Coroutines, Glide
-
-🏆 LeetCode Progress
 <div align="center">
-  https://leetcard.jacoblin.cool/L_E_L_I_K?theme=dark&font=Karma&ext=contest
+
+<!-- LeetCode карточка -->
+[![LeetCode Stats](https://leetcard.jacoblin.cool/L_E_L_I_K?theme=dark&font=Karma&ext=contest)](https://leetcode.com/u/L_E_L_I_K/)
+
 </div>
+
+---
+
+## 📚 **Текущее Обучение**
+
+<div align="center">
+
+<!-- Анимированные иконки обучения -->
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
+      <br/>
+      <sub>Advanced UI</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/MVI_Architecture-FF6B6B?style=for-the-badge&logo=architecture&logoColor=white" />
+      <br/>
+      <sub>MVI Pattern</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
+      <br/>
+      <sub>Multiplatform</sub>
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/Material_3-8A2BE2?style=for-the-badge&logo=material-design&logoColor=white" />
+      <br/>
+      <sub>Design System</sub>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
+
+## 💼 **Мои Проекты**
+
+<div align="center">
+
+<!-- Карточки проектов -->
+<div align="center">
+
+### 🎬 **Movies App**
+*Современное приложение для просмотра информации о фильмах*
+
+```kotlin
+// Технологии: MVVM, Retrofit, Room, Coroutines, Glide
