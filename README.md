@@ -2,7 +2,7 @@
 
 <!-- Статус -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=L+E+L+I+K&fontSize=40&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=170&section=header&text=L+E+L+I+K&fontSize=60&fontAlignY=35&desc=A+novice+android+developer+from+the+north&descAlignY=65&descSize=20" />
 </p>
 
 <!-- Социальные сети с иконками -->
