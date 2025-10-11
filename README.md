@@ -8,13 +8,13 @@
 <!-- Социальные сети с иконками -->
 <p align="center">
   <a href="https://t.me/WaitAndSee_5">
-    <img src="https://img.shields.io/badge/Telegram-@WaitAndSee_5-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0" />
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white&labelColor=2CA5E0&color=2CA5E0" />
   </a>
   <a href="mailto:b_banni@inbox.ru">
-    <img src="https://img.shields.io/badge/Email-b_banni@inbox.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836" />
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836&color=D14836" />
   </a>
   <a href="https://leetcode.com/u/L_E_L_I_K/">
-    <img src="https://img.shields.io/badge/LeetCode-L_E_L_I_K-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116" />
+    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black&labelColor=FFA116&color=FFA116" />
   </a>
 </p>
 
