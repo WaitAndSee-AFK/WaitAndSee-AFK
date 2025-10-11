@@ -66,13 +66,9 @@
 - 🏗️ **MVI & MVIKotlin** - современные архитектурные подходы
 - 📱 **KMP (Kotlin Multiplatform)** - кроссплатформенная разработка
 - 🎨 **Material Design 3** - современные UI паттерны
+хнологии: MVVM, Retrofit, Room, Coroutines, Glide
 
----
-
-## 💼 **Мои проекты**
-
-### 🎬 **[Movies App](https://github.com/Le1ik1/movies-app)**
-*Приложение для просмотра информации о фильмах с использованием современного Android стека*
-
-```kotlin
-// Технологии: MVVM, Retrofit, Room, Coroutines, Glide
+🏆 LeetCode Progress
+<div align="center">
+  https://leetcard.jacoblin.cool/L_E_L_I_K?theme=dark&font=Karma&ext=contest
+</div>
