@@ -1,11 +1,8 @@
 <div align="center">
 
-<!-- Анимированное приветствие -->
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=30&duration=4000&pause=1000&color=7F52FF&center=true&vCenter=true&width=500&lines=👋+Привет,+я+Леонид+Воробьев;💻+Android+Developer;🚀+Kotlin+%7C+Jetpack+Compose;🎯+Clean+Architecture" alt="Приветствие" />
-
 <!-- Статус -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=Modern+Mobile+Apps&fontSize=40&fontAlignY=40" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=120&section=header&text=L+E+L+I+K&fontSize=40&fontAlignY=40" />
 </p>
 
 <!-- Социальные сети с иконками -->
@@ -32,16 +29,13 @@
 ### **📱 Основные Технологии**
   
 <!-- Иконки технологий из Skill Icons -->
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,idea,java,gradle&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,idea&perline=5"/><img width="50px" title="Jetpack Compose" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" />
 
 ### **🏗️ Архитектура & UI**
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,github,gitlab&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,github,gitlab&theme=dark&perline=5"/> <img src="https://raw.githubusercontent.com/irontec/android-mvvm-example/master/logo.png" width="55"/>
 
 ### **📚 Базы Данных & Сеть**
-<img src="https://skillicons.dev/icons?i=sqlite,mysql,postman,realm,mongodb&theme=dark&perline=5" />
-
-### **🛠️ Инструменты & Другое**
-<img src="https://skillicons.dev/icons?i=figma,stackoverflow,linux,wordpress,vscode&theme=dark&perline=5" />
+<img src="https://skillicons.dev/icons?i=sqlite,mysql&perline=5" /> <img src="https://cdn-icons-png.flaticon.com/512/9243/9243391.png" width="55"/>
 
 </div>
 
