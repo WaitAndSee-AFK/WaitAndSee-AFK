@@ -1,69 +1,78 @@
-# 👋 Привет, я Леонид Воробьев, но можно просто Лелик
-### Начинающий Android-разработчик
+<div align="center">
 
-🚀 Стремлюсь создавать качественные мобильные приложения с удобным интерфейсом и современными технологиями.
+# 👋 Привет, я Леонид Воробьев 
+### **Android Developer** | Kotlin • Jetpack Compose • Clean Architecture
+
+🚀 Создаю современные мобильные приложения с фокусом на пользовательский опыт и чистый код
+
+[![Telegram](https://img.shields.io/badge/Telegram-@WaitAndSee_5-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WaitAndSee_5)
+[![Email](https://img.shields.io/badge/Email-b_banni@inbox.ru-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b_banni@inbox.ru)
+[![LeetCode](https://img.shields.io/badge/LeetCode-L_E_L_I_K-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/L_E_L_I_K/)
+
+</div>
 
 ---
 
-## 🛠️ Технологии и навыки
+## 🛠️ **Мой Tech Stack**
 
-### 📱 Основные технологии
+### **📱 Основные технологии**
+<div align="center">
+  
 ![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 
-### 🏗️ Архитектура и подходы
-![MVVM](https://img.shields.io/badge/MVVM-Architecture-FF6B6B?style=for-the-badge)
+</div>
+
+### **🏗️ Архитектура & Библиотеки**
+<div align="center">
+
+![MVVM](https://img.shields.io/badge/Architecture-MVVM-FF6B6B?style=for-the-badge)
 ![Clean Architecture](https://img.shields.io/badge/Clean_Architecture-6A1B9A?style=for-the-badge)
-
-### 📚 Библиотеки и фреймворки
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white)
-![Room](https://img.shields.io/badge/Room-Database-4CAF50?style=for-the-badge)
-![Retrofit](https://img.shields.io/badge/Retrofit-API-8A2BE2?style=for-the-badge)
-![Coroutines](https://img.shields.io/badge/Coroutines-Async-4CAF50?style=for-the-badge)
+![Coroutines](https://img.shields.io/badge/Coroutines-Flow-4CAF50?style=for-the-badge)
 
-### 🛠️ Инструменты
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+</div>
+
+### **📚 Дополнительные технологии**
+<div align="center">
+
+![Retrofit](https://img.shields.io/badge/Retrofit-REST-8A2BE2?style=for-the-badge)
+![Room](https://img.shields.io/badge/Room_Database-4CAF50?style=for-the-badge)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+</div>
 
 ---
 
-## 📈 Активность
+## 📊 **GitHub Statistics**
 
-### 🔥 Мой LeetCode
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/your-profile](https://leetcode.com/u/L_E_L_I_K/))
+<div align="center">
 
-*Решаю алгоритмические задачи для улучшения навыков программирования*
+![Leonid's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Le1ik1&show_icons=true&theme=radical&hide_border=true&count_private=true)
 
-### 📊 Статистика GitHub
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Le1ik1&layout=compact&theme=radical&hide_border=true&langs_count=6)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Le1ik1&theme=radical&hide_border=true)
 
----
-
-## 📫 Связь со мной
-
-[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/WaitAndSee_5)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:b_banni@inbox.ru)
+</div>
 
 ---
 
-## 💼 Мои проекты
+## 🎯 **Что изучаю сейчас**
 
-### 📱 [Название проекта 1](https://github.com/yourusername/project1)
-Краткое описание проекта, технологии которые использовались
-
-### 📱 [Название проекта 2](https://github.com/yourusername/project2)
-Краткое описание проекта, что интересного было реализовано
+- 🔥 **Advanced Jetpack Compose** - кастомные анимации и сложные UI
+- 🏗️ **MVI & MVIKotlin** - современные архитектурные подходы
+- 📱 **KMP (Kotlin Multiplatform)** - кроссплатформенная разработка
+- 🎨 **Material Design 3** - современные UI паттерны
 
 ---
 
-## 📚 Изучаю сейчас
-- 🔥 Jetpack Compose
-- 🏗️ Clean Architecture
-- 📱 Advanced Android patterns
-- 🎯 Kotlin Coroutines & Flow
+## 💼 **Мои проекты**
 
-⭐ *Всегда открыт для новых вызовов и сотрудничества!*
+### 🎬 **[Movies App](https://github.com/Le1ik1/movies-app)**
+*Приложение для просмотра информации о фильмах с использованием современного Android стека*
+
+```kotlin
+// Технологии: MVVM, Retrofit, Room, Coroutines, Glide
