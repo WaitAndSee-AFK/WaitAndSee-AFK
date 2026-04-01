@@ -22,25 +22,6 @@
 
 ---
 
-## 🎯 **Технологический Стек**
-
-<div align="center">
-
-### **📱 Основные Технологии**
-  
-<!-- Иконки технологий из Skill Icons -->
-<img src="https://skillicons.dev/icons?i=kotlin,androidstudio,idea&perline=5"/><img width="50px" title="Jetpack Compose" src="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjC97Z8BResg5dlPqczsRCFhP6zewWX0X0e7fVPG-G7PuUZwwZVsi9OPoqJYkgqT2h0FI95SsmWzVEgpt8b8HAqFiIxZ98TFtY4lE0b8UrtVJ2HrJebRwl6C9DslsQDl9KnBIrdHS6LtkY/s1600/jetpack+compose+icon_RGB.png" />
-
-### **🏗️ Архитектура & UI**
-<img src="https://skillicons.dev/icons?i=androidstudio,firebase,git,github,gitlab&theme=dark&perline=5"/> <img src="https://raw.githubusercontent.com/irontec/android-mvvm-example/master/logo.png" width="55"/>
-
-### **📚 Базы Данных & Сеть**
-<img src="https://skillicons.dev/icons?i=sqlite,mysql&perline=5" /> <img src="https://cdn-icons-png.flaticon.com/512/9243/9243391.png" width="55"/>
-
-</div>
-
----
-
 ## 📊 **GitHub Статистика**
 
 <div align="center">
@@ -69,51 +50,3 @@
 
 </div>
 
----
-
-## 📚 **Текущее Обучение**
-
-<div align="center">
-
-<!-- Анимированные иконки обучения -->
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Jetpack_Compose-4285F4?style=for-the-badge&logo=jetpack-compose&logoColor=white" />
-      <br/>
-      <sub>Advanced UI</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/MVI_Architecture-FF6B6B?style=for-the-badge&logo=architecture&logoColor=white" />
-      <br/>
-      <sub>MVI Pattern</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/KMP-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-      <br/>
-      <sub>Multiplatform</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/Material_3-8A2BE2?style=for-the-badge&logo=material-design&logoColor=white" />
-      <br/>
-      <sub>Design System</sub>
-    </td>
-  </tr>
-</table>
-
-</div>
-
----
-
-## 💼 **Мои Проекты**
-
-<div align="center">
-
-<!-- Карточки проектов -->
-<div align="center">
-
-### 🎬 **Movies App**
-*Современное приложение для просмотра информации о фильмах*
-
-```kotlin
-// Технологии: MVVM, Retrofit, Room, Coroutines, Glide
